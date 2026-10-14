@@ -1,0 +1,9 @@
+Package: com.pelican.ios6classic
+Name: iOS 6 Classic for SnowBoard
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Classic iOS 6 icon theme for SnowBoard.
+Maintainer: iOS6Classic
+Author: iOS6Classic
+Section: Themes
+Depends: com.spark.snowboard
